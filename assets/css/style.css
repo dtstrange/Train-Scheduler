@@ -1,0 +1,10 @@
+body{
+	background-image: url("../images/choo-choo-train-hi.png");
+}
+.jumbotron{
+	font-family: 'Permanent Marker', cursive;
+}
+
+.panel{
+	font-family: 'Playfair Display SC', serif;
+}
